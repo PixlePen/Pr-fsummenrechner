@@ -70,9 +70,3 @@ Dieses Projekt ist eine direkte Anwendung und Vertiefung relevanter Lernfelder m
 * **Allgemeine Programmierkenntnisse & GUI-Entwicklung:** Stärkt die Problemlösungsfähigkeiten, das Verständnis für Hashing-Algorithmen und die Entwicklung von benutzerfreundlichen grafischen Oberflächen mit Tkinter.
 
 ---
-
-### **Kurze Beschreibung (für GitHub Repository-Übersicht)**
-
-Diese kurze Beschreibung kannst du beim Erstellen des GitHub-Repositories im Feld "Description" eingeben.
-
-> Ein Python-GUI-Tool zur Berechnung von Datei-Prüfsummen (SHA256, MD5) für die Überprüfung der Datenintegrität. Demonstriert Python-Programmierung, GUI-Entwicklung mit Tkinter und Verständnis für IT-Sicherheitskonzepte.
